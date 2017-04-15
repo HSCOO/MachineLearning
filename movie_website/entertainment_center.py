@@ -18,7 +18,7 @@ server_datas = [
     ["WONDER WOMAN Final Trailer",
 "https://i.ytimg.com/vi/lOOnCFzY4us/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=Vn3FYF7_OLa_ZzahpL2EkobVwWY",
 "https://www.youtube.com/watch?v=lOOnCFzY4us"],
-    ["Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
+    ["Samurai Champloo - Lofi HipHop Mix Nujabes inspired",
 "https://i.ytimg.com/vi/kq7cQNO0gYc/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=67&sigh=hygtAvEgWaNKQGXKjv5KjEIS0Lo",
 "https://www.youtube.com/watch?v=kq7cQNO0gYc"]
     ]
